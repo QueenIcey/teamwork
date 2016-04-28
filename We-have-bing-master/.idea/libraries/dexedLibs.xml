@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/We-have-bing-master/MathsApp/bin/dexedLibs/android-support-v4-d433ad2dfe18010454d5d5d40e3793a1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/We-have-bing-master/MathsApp/bin/dexedLibs/android-support-v4-dd7961e8f11cd16a800af0ccb034dee0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/We-have-bing-master/MathsApp/bin/dexedLibs/android-support-v4-69e87c056e2415c34c99a1a50d3325af.jar!/" />
+      <root url="jar://$PROJECT_DIR$/We-have-bing-master/MathsApp/bin/dexedLibs/android-support-v4-1105fadfa2407ec719c5284b4c7e18fd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/We-have-bing-master/MathsApp/bin/dexedLibs/android-support-v4-82afd552afe0df2aea40a62142badf55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/We-have-bing-master/MathsApp/bin/dexedLibs/android-support-v4-02e5de1a5c77fba469802d6b5db3325c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
