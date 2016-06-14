@@ -1,0 +1,119 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Lantinghei SC","Microsoft Yahei",宋体,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-style: initial;  
+}
+
+li,ul,img,a,div{
+    border: 0;
+    list-style: none;     
+}
+
+div{
+    display: block;    
+}
+
+a{
+    color: #333333;
+    text-decoration: none;
+    outline: none;    
+}
+
+em{
+    font-weight: normal;
+}
+
+.top{
+    background-color: #222222;
+}
+
+.neirong{
+    width: 1125px;
+    height: 70px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.logo{
+    width: 160px;
+    height: 70px;
+    float: left;
+    padding-right: 30px;
+    padding-top: 1px;
+}
+
+.logo a{
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+}
+
+.biaoqian{
+    height: 90px;
+    float: left;
+}
+
+.biaoqian li{
+    height: 70px;
+    float: left;
+    margin-right: 20px;
+}
+
+.biaoqian li *{
+    color:#dadada;
+    font-size: 18px;
+    display: inline-block;
+    line-height: 17px;
+    vertical-align: auto;
+}
+
+.biaoqian li a{
+    height: 26px;
+    line-height: 22px;
+    padding: 26px 17px;
+}
+
+.biaoqian li.active{
+    background: #333;
+}
+
+.biaoqian li a:hover{
+    background: #333;
+}
+.sousuo{
+    float: right;
+    margin-top: 23px; 
+}
+.down{
+	background:#333333;
+    padding: 30px;
+    text-align:center;  
+}
+.zhongjian{
+	background: dimgray;
+    padding:350px;
+    text-align: match-parent; 
+}
+.zhongjian li{
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+}
+.zhongjian li *{
+    color:#dadada;
+    font-size: 18px;
+    
+    vertical-align: top;
+}
+.zhongjian li a{
+    height: 26px;
+    line-height: 22px;
+    padding: 26px 17px;
+}
+
+
